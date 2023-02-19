@@ -12,7 +12,7 @@
 
 # 패턴
 
-## 전략 패턴(Strategy Pattern)
+## [전략 패턴(Strategy Pattern)](https://github.com/ssj9685/design-pattern/tree/main/strategy)
 
 알고리즘을 정의하고 캡슐화해 서 각각의 알고리즘군을 수정해서 쓸 수 있게 해줍니다. 전략 패턴을 사용하면 클라이언트로부터 알고리즘을 분리해서 독립적으로 변경할 수 있습니다.
 
