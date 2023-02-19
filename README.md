@@ -16,7 +16,7 @@
 
 알고리즘을 정의하고 캡슐화해 서 각각의 알고리즘군을 수정해서 쓸 수 있게 해줍니다. 전략 패턴을 사용하면 클라이언트로부터 알고리즘을 분리해서 독립적으로 변경할 수 있습니다.
 
-## 옵저버 패턴(Observer Pattern)
+## [옵저버 패턴(Observer Pattern)](https://github.com/ssj9685/design-pattern/tree/main/observer)
 
 한 객체의 상태가 바뀌면 그 객체에 의존하는 다른 객체에게 연락이 가고 자동으로 내요잉 갱신되는 방식으로 일대다(one-to-many) 의존성을 정의합니다.
 
