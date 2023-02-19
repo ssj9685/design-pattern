@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ssj9685/design-pattern/issues"
   },
-  "homepage": "https://github.com/ssj9685/design-pattern#readme"
+  "homepage": "https://github.com/ssj9685/design-pattern#readme",
+  "dependencies": {
+    "multi-inherit": "^1.0.1"
+  }
 }
