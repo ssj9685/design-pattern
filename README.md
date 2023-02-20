@@ -20,7 +20,7 @@
 
 한 객체의 상태가 바뀌면 그 객체에 의존하는 다른 객체에게 연락이 가고 자동으로 내요잉 갱신되는 방식으로 일대다(one-to-many) 의존성을 정의합니다.
 
-## 데코레이터 패턴(Decorator Pattern)
+## [데코레이터 패턴(Decorator Pattern)](https://github.com/ssj9685/design-pattern/tree/main/decorator)
 
 객체에 추가 요소를 동적으로 더할 수 있습니다. 데코레이터를 사용하면 서브클래스를 만들 때보다 훨씬 유연하게 기능을 확장할 수 있습니다.
 
